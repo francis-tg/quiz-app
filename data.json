@@ -1,0 +1,95 @@
+{
+  "quizTitle": "Quiz d'informatique",
+  "questions": [
+    {
+      "question": "Qu'est-ce que HTML signifie?",
+      "answers": [
+        { "answer": "Hypertext Markup Language", "correct": true },
+        { "answer": "Hyper Text Transfer Protocol", "correct": false },
+        { "answer": "High-Level Text Markup Language", "correct": false },
+        { "answer": "Hyperlink and Text Markup Language", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel langage de programmation est souvent utilisé pour le développement web côté serveur?",
+      "answers": [
+        { "answer": "JavaScript", "correct": false },
+        { "answer": "Python", "correct": false },
+        { "answer": "Java", "correct": false },
+        { "answer": "PHP", "correct": true }
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'un 'bug' informatique?",
+      "answers": [
+        { "answer": "Un type de virus", "correct": false },
+        { "answer": "Un problème matériel", "correct": false },
+        { "answer": "Un défaut dans un programme", "correct": true },
+        { "answer": "Un câble déconnecté", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle entreprise a développé le système d'exploitation Windows?",
+      "answers": [
+        { "answer": "Apple", "correct": false },
+        { "answer": "Microsoft", "correct": true },
+        { "answer": "Google", "correct": false },
+        { "answer": "Linux", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle est la fonction principale d'un routeur dans un réseau informatique?",
+      "answers": [
+        { "answer": "Filtrer les spams", "correct": false },
+        { "answer": "Assurer la sécurité du réseau", "correct": false },
+        { "answer": "Faciliter la communication entre les périphériques", "correct": true },
+        { "answer": "Imprimer des documents en réseau", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce que l'acronyme 'CPU' signifie en informatique?",
+      "answers": [
+        { "answer": "Central Processing Unit", "correct": true },
+        { "answer": "Computer Personal Unit", "correct": false },
+        { "answer": "Control Panel Unit", "correct": false },
+        { "answer": "Central Peripheral Unit", "correct": false }
+      ]
+    },
+    {
+      "question": "Quelle méthode de recherche trie continuellement une liste jusqu'à trouver l'élément recherché?",
+      "answers": [
+        { "answer": "Recherche binaire", "correct": false },
+        { "answer": "Recherche linéaire", "correct": true },
+        { "answer": "Recherche quadratique", "correct": false },
+        { "answer": "Recherche rapide", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel protocole est utilisé pour envoyer des courriers électroniques?",
+      "answers": [
+        { "answer": "HTTP", "correct": false },
+        { "answer": "FTP", "correct": false },
+        { "answer": "SMTP", "correct": true },
+        { "answer": "DNS", "correct": false }
+      ]
+    },
+    {
+      "question": "Quel est le rôle du langage SQL dans les bases de données?",
+      "answers": [
+        { "answer": "Affichage des pages web", "correct": false },
+        { "answer": "Manipulation des données", "correct": true },
+        { "answer": "Chiffrement des fichiers", "correct": false },
+        { "answer": "Création de dessins graphiques", "correct": false }
+      ]
+    },
+    {
+      "question": "Qu'est-ce qu'un 'firewall' en matière de sécurité informatique?",
+      "answers": [
+        { "answer": "Un écran d'ordinateur spécialisé", "correct": false },
+        { "answer": "Un logiciel de retouche d'image", "correct": false },
+        { "answer": "Un dispositif de sécurité réseau", "correct": true },
+        { "answer": "Un type de virus informatique", "correct": false }
+      ]
+    }
+  ]
+}

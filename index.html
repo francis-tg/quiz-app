@@ -1,0 +1,30 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <link rel="icon" type="image/svg+xml" href="" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>IT QUIZ APP</title>
+  </head>
+  <body class="bg-slate-200">
+    <div  >
+      <div class="flex justify-center">
+        <div class="p-3">
+          <h1 class="text-3xl font-bold text-center">
+            IT QUIZ APP
+          </h1>
+          <div class="flex justify-center m-3">
+            <div class="w-32 h-32 border-2 border-slate-800 rounded-full flex justify-center items-center" id="timer"> <span
+                id="countdown" class="text-3xl"></span></div>
+          </div>
+
+          <div id="question-show" class="w-full">
+          </div>
+          <button class="bg-slate-400 p-3 rounded-lg float-left hidden" id="prev-btn">Retour</button>
+          <button class="bg-teal-500 p-3 rounded-lg float-right" id="next-btn">Suivant</button>
+        </div>
+      </div>
+    </div>
+    <script type="module" src="/main.js"></script>
+  </body>
+</html>
